@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555141692 source:g:\118. pascal's triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
